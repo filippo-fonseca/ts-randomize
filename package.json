@@ -29,6 +29,7 @@
     "printWidth": 120
   },
   "dependencies": {
+    "ts-node": "^10.2.1",
     "tslib": "^2.1.0"
   }
 }
