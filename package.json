@@ -5,7 +5,7 @@
   "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "prepublishOnly": "npm run test&&npm run build",
+    "prepublishOnly": "npm run build",
     "build": "tsc"
   },
   "main": "dist/index.js",
