@@ -21,4 +21,8 @@ const myVar = random(data);
 console.log(myVar); // will output a random value from the `data` array
 ```
 
+## Contributing
+
+Issues, PRs, and contributions are always welcome! Thanks to all who do 💙
+
 Created and maintained with ❤️ by [**@FilippoFonseca.**](https://twitter.com/FilippoFonseca)
